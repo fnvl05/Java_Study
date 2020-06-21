@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class test22 {
 	public static void main(String[] args) {
-		//������ 2�� �����̵�
+		//간단한 2차 숫자이동
 		int [][] arr = {
 				{0, 0, 0, 0, 0},
 				{0, 1, 0, 1, 0},
