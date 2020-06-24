@@ -1,4 +1,4 @@
-package test01;
+package CodeUp.test01;
 
 import java.util.Scanner;
 
@@ -50,5 +50,7 @@ public class test01 {
         System.out.println("실수 입력");
         float float1015 = sc.nextFloat();
         System.out.printf("%.2f \n", float1015);
+
+        sc.close();
     }
 }
